@@ -1,0 +1,16 @@
+.logo{
+    width: 120px;
+}
+.nav{
+    display: flex;
+
+}
+.icons img{
+    width: 30px;
+    margin: 20px 50px;   
+}
+.nav h3{
+    font-size: 40px;
+    letter-spacing: 10px;
+    margin: 10px 50px;
+}

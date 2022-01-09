@@ -1,0 +1,19 @@
+.container{
+    display: grid;
+  grid-template-areas:
+    'header header header header header header'
+    'main main main main main main '
+    'footer footer footer footer footer footer';
+  grid-gap: 10px;
+  padding: 10px;
+}
+.nav {
+     grid-area: header;
+     }
+.section {
+     grid-area: main; 
+    }
+.footer { 
+    grid-area: footer;
+    
+}
